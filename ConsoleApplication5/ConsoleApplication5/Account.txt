@@ -1,0 +1,6 @@
+dat,1234456,sdsd,9-2-199,nam,hysdsds
+d,d,d,9-2-1997,nam,dat
+a,a,a,2-2-2,3,3
+ddddd,dsdsd,ddd,2-2-2,na,sdsd
+11,11,11,1-1-1998,nam,ddd
+sada,sada,hihi,1-1-1998,nam,hung yen

@@ -1,0 +1,6 @@
+﻿  ConsoleApplication5.cpp
+c:\users\admin\source\repos\consoleapplication5\consoleapplication5\dohoa.h(28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\admin\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(246): warning C4102: 'label': unreferenced label
+c:\users\admin\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(284): warning C4102: 'label': unreferenced label
+c:\users\admin\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(307): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplication5.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
