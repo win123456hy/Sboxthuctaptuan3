@@ -100,7 +100,7 @@ void viettin() {
 	}
 	string nguoinhan;
 nhaplai:
-	cout << "Nhap ten nguoi nhan"<<endl;
+	cout << "Nhap ten nguoi nhan:"<<endl;
 
 
 	getline(cin, nguoinhan);
@@ -184,7 +184,7 @@ nhaplai:
 	}
 	fri.close();
 	
-	cout << "Nhap tin nhan";
+	cout << "Nhap tin nhan:";
 	getline(cin, tinnhan);
 	cin.get();
 	if (tinnhan == "")
@@ -692,8 +692,8 @@ void manhinhchat() {
 		} while (chon < 1 || chon>6);
 		switch (chon)
 		{
-		case 1:system("cls"); cin.get(); viettin(); cin.get(); break;
-		case 2:system("cls"); cin.get(); doctin(); cin.get(); break;
+		case 1:system("cls"); cin.get(); danhsachbanbe(); viettin(); cin.get(); break;
+		case 2:system("cls"); cin.get(); danhsachbanbe(); doctin(); cin.get(); break;
 		case 3:system("cls"); cin.get(); danhsachbanbe(); cin.get(); break;
 		case 4:system("cls"); cin.get(); addFriends(); cin.get(); break;
 		case 5:system("cls"); cin.get(); danhsachbanbe(); blockfriend(); cin.get(); break;
